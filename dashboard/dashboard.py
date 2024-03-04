@@ -5,7 +5,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import seaborn as sns
 import matplotlib.pyplot as plt
-import io
 
 # Fungsi untuk membaca data
 @st.cache_resource
